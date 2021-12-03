@@ -1,0 +1,13 @@
+{
+    "/develop/js/app.js": "/develop/js/app.js",
+    "/develop/js/main-layout.js": "/develop/js/main-layout.js",
+    "/develop/js/dashboard-view.js": "/develop/js/dashboard-view.js",
+    "/develop/js/profile-view.js": "/develop/js/profile-view.js",
+    "/develop/js/developer-view.js": "/develop/js/developer-view.js",
+    "/develop/js/user-view.js": "/develop/js/user-view.js",
+    "/develop/js/product-view.js": "/develop/js/product-view.js",
+    "/develop/js/product-tag-view.js": "/develop/js/product-tag-view.js",
+    "/develop/js/category-view.js": "/develop/js/category-view.js",
+    "/develop/js/login-view.js": "/develop/js/login-view.js",
+    "/develop/css/app.css": "/develop/css/app.css"
+}

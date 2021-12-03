@@ -1,0 +1,54 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+
+// Font Awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+// sweet alert
+@import 'sweetalert2/src/sweetalert2.scss';
+
+
+:root {
+    --whiteFFF: #fff;
+    --whiteF2: #f2f7f6;
+    --grey600: #303030;
+    --textLink: #c2c7d0;
+    --iconInput: #555;
+    --zIndexBannerContent: 1;
+    --zIndexHeader: 2;
+    --zIndexAnnounce: 5;
+    --zIndexSearchBackdrop: 24;
+    --zIndexSearchContent: 25;
+    --zIndexModalBackdrop: 49;
+    --zIndexModalContent: 50;
+    --zIndexDropdownBackdrop: 54;
+    --zIndexTooltip: 55;
+    --zIndexCookieConsent: 60;
+    --zIndexLoadingIndicator: 1000;
+}
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.blue {color: $blue;}
+.indigo {color: $indigo;}
+.purple {color: $purple;}
+.pink {color: $pink;}
+.red {color: $red;}
+.orange {color: $orange;}
+.yellow {color: $yellow;}
+.green {color: $green;}
+.teal {color: $teal;}
+.cyan {color: $cyan;}
